@@ -22,7 +22,7 @@ from aiogram.enums import ParseMode
 
 # =====================================
 
-TOKEN = "9289492109:AAGmtNsFWZ00ZxWj73srbznkCVLcXY3XNOs"
+TOKEN = "9289492109:AAGyvuTiQ30VKfdCiAS97lR6j5-XMQ_S5uM"
 
 GROUP_ID = -1003883166615
 
